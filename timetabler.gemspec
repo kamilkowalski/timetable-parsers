@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
 	s.name        = 'timetabler'
-	s.version     = '0.0.1'
+	s.version     = '0.1.0'
 	s.summary     = 'A public transportation timetable parser'
 	s.description = 'Timetabler is a Polish public transportation timetable parser that allows you to extract bus schedules directly from websites in a code-friendly format.'
 

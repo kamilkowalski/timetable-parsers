@@ -11,5 +11,7 @@ Gem::Specification.new do |s|
 	s.email    = 'kowalski.tychy@gmail.com'
 	s.homepage = 'https://github.com/kamilkowalski/timetable-parsers'
 
+	s.files = Dir['lib/**/*.rb']
+
 	s.add_dependency('nokogiri',   '>= 1.5.2')
 end
